@@ -1,2 +1,3 @@
 # Hello_world
-to learn how repository is created 
+changes have been made to learn how commits work
+
